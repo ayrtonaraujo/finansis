@@ -1,0 +1,22 @@
+body {
+  background-color: #dfdfdf;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+  color: #2f2f2f;
+  font-family: "Roboto", "Noto Sans", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+  font-optical-sizing: auto;
+}
+
+.logofinansis {
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  padding: 1em;
+}
