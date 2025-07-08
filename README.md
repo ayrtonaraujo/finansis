@@ -69,23 +69,23 @@ A seguir, algumas das principais telas da aplicação:
 
 ### Página Inicial
 *A tela principal que o usuário vê ao acessar o sistema.*
-![Tela Inicial](/references/prints/Screenshot 2025-07-08 191332.png)
+![Tela Inicial](/references/prints/inicio.png)
 
 ### Tela de Lançamentos
 *Onde o usuário visualiza, cadastra e gerencia suas receitas e despesas.*
-![Tela de Lançamentos](/references/prints/Screenshot 2025-07-08 191344.png)
+![Tela de Lançamentos](/references/prints/lancamentos.png)
 
 ### Tela de Categorias
 *Gerenciamento das categorias utilizadas para classificar os lançamentos.*
-![Tela de Categorias](/references/prints/Screenshot 2025-07-08 191353.png)
+![Tela de Categorias](/references/prints/categorias.png)
 
 ### Design Responsivo (Mobile)
 *Visualização do sistema em um dispositivo móvel, demonstrando a adaptabilidade da interface.*
-![Design Responsivo (Mobile)](/references/prints/Screenshot 2025-07-08 191808.png)
+![Design Responsivo (Mobile)](/references/prints/mobile.png)
 
 ### Página de Erro 404
 *Página amigável para rotas não encontradas.*
-![Design Responsivo (Mobile)](/references/prints/Screenshot 2025-07-08 191406.png)
+![Design Responsivo (Mobile)](/references/prints/404.png)
 
 ---
 
