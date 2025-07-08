@@ -150,5 +150,5 @@ ng serve
 ## 👨‍💻 Autoresome do Autor
 	
 - Ayton Araújo
-- Mathias Teixeira
+- Mathias Teixeira (https://github.com/mathiasgteixeira)
 - Judson Silva
